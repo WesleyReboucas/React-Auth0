@@ -21,7 +21,7 @@
 
 ## Projeto
 
-Meu objetivo é aprender a implementar o OAuth com ReactJs.
+O objetivo desse repositório é publicar meus estudos na integração de ReactJs com OAuth.
 
 - [x] Logar utilizando conta google
 - [ ] Logar utilizando contas sociais diferentes
